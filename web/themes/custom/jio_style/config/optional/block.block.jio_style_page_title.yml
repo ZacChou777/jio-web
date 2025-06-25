@@ -1,0 +1,17 @@
+langcode: en
+status: true
+dependencies:
+  theme:
+    - jio_style
+id: jio_style_page_title
+theme: jio_style
+region: header
+weight: -2
+provider: null
+plugin: page_title_block
+settings:
+  id: page_title_block
+  label: "Page title"
+  label_display: "0"
+  provider: core
+visibility: {}

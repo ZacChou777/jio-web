@@ -1,0 +1,5 @@
+# Schema for the configuration files of the jio_style theme.
+
+jio_style.settings:
+  type: theme_settings
+  label: 'jio_style settings'
